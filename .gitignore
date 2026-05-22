@@ -1,0 +1,19 @@
+# Node
+node_modules/
+
+# Flutter
+.dart_tool/
+.packages
+build/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Android
+android/.gradle/
+
+# iOS
+ios/Pods/
